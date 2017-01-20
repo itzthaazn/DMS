@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>CustomerServlet Configuration Properties</comment>
+<entry key="dbDriver">com.mysql.jdbc.Driver</entry>
+<entry key="dbUrl">jdbc:mysql://localhost:3306/cardatabase</entry>
+<entry key="dbTable">Nissan</entry>
+<entry key="dbFirstNameAtt">ID</entry>
+<entry key="dbLastNameAtt">PARTS_NUM</entry>
+<entry key="user">student</entry>
+<entry key="password">fpn871</entry>
+</properties>
